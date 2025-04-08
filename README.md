@@ -25,10 +25,3 @@ Install required packages:
 ```bash
 pip install opencv-python numpy matplotlib
 
-Replace the image path in the code:
-```bash
-img = cv2.imread(r'C:\\path\\to\\your\\image.jpg')
-
-Run the script:
-```bash
-python denoise_image.py
